@@ -5,15 +5,15 @@
 */
 {
   // name your instance!
-  "title": "Northern Explorer",
+  "title": "Panam Explorer",
 
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Northern",
+  "coin": "Panam",
 
   // coin symbol
-  "symbol": "NORT",
+  "symbol": "PANAM",
 
   // logo
   "logo": "/images/logo.png",
@@ -42,7 +42,7 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 9332,
+    "port": 45789,
     "user": "",
     "pass": ""
   },
@@ -110,8 +110,8 @@
   "googleplus": "yourgooglepluspage",
 
   //genesis
-  "genesis_tx": "d611ad6808864e0e9bd331f3ffa2298c9e13a54d9fe59a99ccb3a75db374b7c9",
-  "genesis_block": "000001e1a5a4257154c65b46fc732bfa637ba7a898525373ba32ec4aa79921dd",
+  "genesis_tx": "77a690c3a8f76dfc176c847b8a645a2399aec65ffb3daca55154b300e2be63c4",
+  "genesis_block": "00000e51a87f9b46ae329d05f08f1487b6a0d89d9f8875facbc17093dfbac499",
 
   //heavy (enable/disable additional heavy features)
   "heavy": false,
